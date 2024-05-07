@@ -1,0 +1,17 @@
+.footer{
+    padding:20px;
+    text-align: center;
+    background-color: #f3f4f6;
+}
+.footer a{
+    
+    color:grey;
+    text-decoration:none;
+    margin:17px;
+}
+.footer a:hover{
+    color:darkgray;
+}
+h2{
+    color:darkcyan;
+}
